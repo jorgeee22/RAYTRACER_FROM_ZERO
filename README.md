@@ -9,7 +9,7 @@ This project focuses on building the rendering pipeline manually instead of rely
 
 ## Overview
 
-Ray tracing is a rendering technique that simulates how rays of light travel through a scene and interact with objects to produce realistic images. Instead of rasterizing triangles like traditional graphics pipelines, ray tracing computes the color of each pixel by casting rays from a virtual camera into a 3D scene and determining how they intersect with objects. :contentReference[oaicite:0]{index=0}
+Ray tracing is a rendering technique that simulates how rays of light travel through a scene and interact with objects to produce realistic images. Instead of rasterizing triangles like traditional graphics pipelines, ray tracing computes the color of each pixel by casting rays from a virtual camera into a 3D scene and determining how they intersect with objects.
 
 In this project, a minimal raytracer was implemented from scratch to generate images of a 3D scene composed of basic geometric objects and lighting interactions.
 
