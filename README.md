@@ -155,3 +155,8 @@ These improvements would significantly increase realism and performance.
 
 Jorge Enrique Ruiz Liera  
 Computer Systems and Graphics Engineering
+
+## Acknowledgements
+
+Parts of this project were developed based on guidance and reference code provided by Professor Jafet Rodriguez.  
+The implementation and extensions were completed as part of a Computer Graphics course.
